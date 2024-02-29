@@ -1,9 +1,10 @@
-body{
-    background-color: #c7caf0;
-}
-/*sssssssss*/
-
 :root{
 --cor-de-fundo:#000000;
 --cor-de-fundo:#ffffff;
 }
+
+body{
+    background-color: var(--cor-de-fundo)
+}
+/*sssssssss*/
+
